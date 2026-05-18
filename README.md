@@ -41,7 +41,6 @@ Dockerfile         # Python konteyner sozlamalari
 ⚙️ O'rnatish va Ishga Tushirish
 1. Repozitoriyani klonlash
 Bash
-git clone https://github.com/umid-jurayev/jobify.git
 cd jobify
 2. .env faylini sozlash
 .env faylini yarating va quyidagi qiymatlarni kiriting:
@@ -88,8 +87,7 @@ Swagger UI: http://localhost:8000/docs
 Redoc: http://localhost:8000/redoc
 
 👨‍💻 Developer
-Ism: Umid Jo'rayev
+Ism: Sattorov Ilhom
 
 Role: Backend Developer (FastAPI Expert)
 
-O'qish joyi: Toshkent davlat transport universiteti (TDTU), 4-kurs talabasi
